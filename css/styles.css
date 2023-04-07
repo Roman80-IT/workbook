@@ -4,7 +4,9 @@
   box-sizing: border-box;
 }
 
-/* Lesson 5 - Block Model */
+/* ========= LESSON 5 - Block Model ========= */
+/* === Геометрія елемента === */
+/* Властивість "padding" */
 
 body {
   font-family: sans-serif;
@@ -17,3 +19,6 @@ body {
   background-color: #fff;
   border: 2px dashed #212121;
 }
+
+/* Властивість "margin" */
+
